@@ -4,6 +4,7 @@
 
 - <b>JavaScript, CSS and HTML</b>
   - [Web Game developed with JavaScript Algorithms](https://github.com/babatopeayeni/JavaScriptGameSeeNoEvil)
+ - [Web Game developed with JavaScript Algorithms](https://github.com/babatopeayeni/Todo-List-JavaScript)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
