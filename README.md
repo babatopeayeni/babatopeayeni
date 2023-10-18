@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>JavaScript, CSS and HTML</b>
-  - [Web Game developed with JavaScript Algorithms](https://github.com/babatopeayeni/JavaScriptGameSeeNoEvil)
+  - [Web Game developed with JavaScript Algorithms](https://github.com/babatopeayeni/threemonkeysgame)
   - [Web App Todo List - JavaScript ](https://github.com/babatopeayeni/Todo-List-JavaScript-)
 - <b>React Projects</b>
   - [Meme Generator](https://github.com/babatopeayeni/meme-app-generator/tree/main) <b><i>(Potentially NSFW)</b></i>
