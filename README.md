@@ -13,8 +13,8 @@
 - <b>Python</b>
   - [Alien Invasion Game](https://github.com/babatopeayeni/alienInvasionPython/tree/main)
 - <b>C# Projects</b>
-  - [Rainfall Calculator App](https://github.com/babatopeayeni/rainFallCalculator/tree/main)
-  - [Rainfall Calculator App](https://github.com/babatopeayeni/PlayfairCipher/tree/main)
+  - [Rainfall Calculator ](https://github.com/babatopeayeni/rainFallCalculator/tree/main)
+  - [Alphabet Letter Encryption Cipher](https://github.com/babatopeayeni/PlayfairCipher/tree/main)
 
 
 
