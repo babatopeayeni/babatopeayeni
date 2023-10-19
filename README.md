@@ -7,7 +7,7 @@
   - [Ghost Face - Web Game](https://github.com/babatopeayeni/ghostFaceGame)
   - [Web App - Todo List ](https://github.com/babatopeayeni/Todo-List-JavaScript-)
 - <b>React Projects</b>
-  - [Meme Generator](https://github.com/babatopeayeni/meme-app-generator/tree/main) <b><i>( New)</b></i>
+  - [Meme Generator](https://github.com/babatopeayeni/meme-app-generator/tree/main) <b><i></b></i>
   - [Travel Journal](https://github.com/babatopeayeni/my-travel-journal/tree/main)
   - [Airbnb Clone Project](https://github.com/babatopeayeni/airbnbClone/tree/main)
 - <b>Python</b>
