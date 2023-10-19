@@ -4,7 +4,7 @@
 
 - <b>JavaScript, CSS and HTML</b>
   - [Web Game developed with JavaScript Algorithms - See No Evil Game ](https://github.com/babatopeayeni/threemonkeysgame)
-  - [Ghost Face Web Game](https://github.com/babatopeayeni/ghostFaceGame)
+  - [Ghost Face - Web Game](https://github.com/babatopeayeni/ghostFaceGame)
   - [Web App Todo List ](https://github.com/babatopeayeni/Todo-List-JavaScript-)
 - <b>React Projects</b>
   - [Meme Generator](https://github.com/babatopeayeni/meme-app-generator/tree/main) <b><i>( New)</b></i>
