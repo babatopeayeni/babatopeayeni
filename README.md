@@ -9,9 +9,9 @@
 - <b>React Projects</b>
   - [Meme Generator](https://github.com/babatopeayeni/meme-app-generator/tree/main) <b><i>( New)</b></i>
   - [Travel Journal](https://github.com/babatopeayeni/my-travel-journal/tree/main)
-  - [Airbnb Clone Project](https://github.com/babatopeayeni/alienInvasionPython/tree/main)
+  - [Airbnb Clone Project](https://github.com/babatopeayeni/airbnbClone/tree/main)
 - <b>Python</b>
-  - [Alien Invasion Game](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Alien Invasion Game](https://github.com/babatopeayeni/alienInvasionPython/tree/main)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
