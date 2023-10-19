@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>JavaScript, CSS and HTML</b>
+- <b>JavaScript, CSS and HTML Projects</b>
   - [Web Game developed With JavaScript Algorithms - See No Evil Game ](https://github.com/babatopeayeni/threemonkeysgame)
   - [Ghost Face - Web Game](https://github.com/babatopeayeni/ghostFaceGame)
   - [Web App - Todo List ](https://github.com/babatopeayeni/Todo-List-JavaScript-)
@@ -12,15 +12,10 @@
   - [Airbnb Clone Project](https://github.com/babatopeayeni/airbnbClone/tree/main)
 - <b>Python</b>
   - [Alien Invasion Game](https://github.com/babatopeayeni/alienInvasionPython/tree/main)
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>C# Projects</b>
+  - [Rainfall Calculator App](https://github.com/babatopeayeni/rainFallCalculator/tree/main)
+  - [Rainfall Calculator App](https://github.com/babatopeayeni/PlayfairCipher/tree/main)
+
 
 
 <h2>📺 Popular YouTube Videos</h2>
