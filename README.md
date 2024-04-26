@@ -15,7 +15,7 @@
 - <b>C# Projects</b>
   - [Rainfall Calculator ](https://github.com/babatopeayeni/rainFallCalculator/tree/main)
   - [Alphabet Letter Encryption Cipher](https://github.com/babatopeayeni/PlayfairCipher/tree/main)
-- <c>C++ Projects</b>
+- <b><c>C++ Projects</b>
   - [Corner Grocer App Design ](https://github.com/babatopeayeni/rainFallCalculator/tree/main)
   - [Temperature Unit Converter Application ](https://github.com/babatopeayeni/PlayfairCipher/tree/main)
 
