@@ -16,8 +16,8 @@
   - [Rainfall Calculator ](https://github.com/babatopeayeni/rainFallCalculator/tree/main)
   - [Alphabet Letter Encryption Cipher](https://github.com/babatopeayeni/PlayfairCipher/tree/main)
 - <b><c>C++ Projects</b>
-  - [Corner Grocer App Design ](https://github.com/babatopeayeni/rainFallCalculator/tree/main)
-  - [Temperature Unit Converter Application ](https://github.com/babatopeayeni/PlayfairCipher/tree/main)
+  - [Corner Grocer App Design ](https://github.com/babatopeayeni/Corner-Grocer-App.git)
+
 
 
 <h2>📺 Popular YouTube Videos</h2>
