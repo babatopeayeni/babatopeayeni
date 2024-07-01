@@ -17,7 +17,7 @@
   - [Alphabet Letter Encryption Cipher](https://github.com/babatopeayeni/PlayfairCipher/tree/main)
 - <b><c>C++ Projects</b>
   - [Corner Grocer App Design ](https://github.com/babatopeayeni/Corner-Grocer-App.git)
-  - [ABCU advising assistance software. ](https://github.com/babatopeayeni/Corner-Grocer-App.git)
+  - [ABCU advising assistance software. ](https://github.com/babatopeayeni/ABCU-advisingAssistanceSoftware.git)
 
 
 
