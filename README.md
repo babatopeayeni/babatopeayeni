@@ -18,6 +18,9 @@
 - <b><c>C++ Projects</b>
   - [Corner Grocer App Design ](https://github.com/babatopeayeni/Corner-Grocer-App.git)
   - [ABCU advising assistance software. ](https://github.com/babatopeayeni/ABCU-advisingAssistanceSoftware.git)
+  - - <b><c>Software Development Lifecycle Project</b>
+  - [Sprint Review and Retrospective](https://github.com/babatopeayeni/SoftwareDevelopmentLifecycle.git)
+
 
 
 
