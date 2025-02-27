@@ -22,10 +22,10 @@
   - [Mobile Application Testing: Customer Service App ](https://github.com/babatopeayeni/SoftwareTesting.git)
 - <b><c>Software Development Lifecycle Projects</b>
   - [Sprint Review and Retrospective](https://github.com/babatopeayeni/SoftwareDevelopmentLifecycle.git)
-- <b><c>Operating Platforms Projects</b>
+- <b><c>Operating Platforms</b>
   - [Software Design Document](https://github.com/babatopeayeni/OperatingPlatforms.git)
-- <b><c>System Analysis and Design Projects</b>
-  - [System Design and Business Requirements Documents](https://github.com/babatopeayeni/SoftwareDesign.git)
+- <b><c>System Analysis and Design</b>
+  - [System Design and Business Requirements Documents](https://github.com/babatopeayeni/SystemAnalysis.git)
 
 
 
