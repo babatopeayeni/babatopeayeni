@@ -19,7 +19,7 @@
   - [Corner Grocer App Design ](https://github.com/babatopeayeni/Corner-Grocer-App.git)
   - [ABCU advising assistance software. ](https://github.com/babatopeayeni/ABCU-advisingAssistanceSoftware.git)
 - <b><c> Computer Graphic and Visualization- OpenGL</b>
-  - [3D Scene ](https://github.com/babatopeayeni/Graphic-Visualization-OpenGL.git)
+  - [3D Scene : OpenGL ](https://github.com/babatopeayeni/Graphic-Visualization-OpenGL.git)
 - <b><c>Software Testing and Automation</b>
   - [Mobile Application Testing: Customer Service App ](https://github.com/babatopeayeni/SoftwareTestAutomation.git)
 - <b><c>Software Security</b>
