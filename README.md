@@ -21,7 +21,7 @@
 - <b><c> Computer Graphic and Visualization- OpenGL</b>
   - [3D Scene : OpenGL ](https://github.com/babatopeayeni/Graphic-Visualization-OpenGL.git)
 - <b><c>Mobile Architect and Programming</b>
-  - [Android App Development](https://github.com/babatopeayeni/SystemAnalysis.git)
+  - [Android App Development](https://github.com/babatopeayeni/AccelerometerApp.git)
 - <b><c>Software Testing and Automation</b>
   - [Mobile Application Testing: Customer Service App ](https://github.com/babatopeayeni/SoftwareTestAutomation.git)
 - <b><c>Software Security</b>
