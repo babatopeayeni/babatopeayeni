@@ -22,6 +22,8 @@
   - [3D Scene : OpenGL ](https://github.com/babatopeayeni/Graphic-Visualization-OpenGL.git)
 - <b><c>Mobile Architect and Programming</b>
   - [Android App Development](https://github.com/babatopeayeni/AccelerometerApp.git)
+- <b><c>Current and Immerging Trends: Artificial Intelligence</b>
+  - [AI Game: Pirate intelligent agent](https://github.com/babatopeayeni/PirateIntelligentAgent.git)
 - <b><c>Software Testing and Automation</b>
   - [Mobile Application Testing: Customer Service App ](https://github.com/babatopeayeni/SoftwareTestAutomation.git)
 - <b><c>Software Security</b>
