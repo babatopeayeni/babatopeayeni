@@ -39,6 +39,8 @@
   - [Software Design Document](https://github.com/babatopeayeni/OperatingPlatforms.git)
 - <b><c>System Analysis and Design</b>
   - [System Design and Business Requirements Documents](https://github.com/babatopeayeni/SystemAnalysis.git)
+- <b><c>Secure Coding</b>
+  - [Secure Coding Documents](https://github.com/babatopeayeni/SecureCoding.git)
 
 
 
