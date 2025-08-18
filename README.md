@@ -44,7 +44,7 @@
 - <b><c>Secure Coding</b>
   - [Secure Coding Documents](https://github.com/babatopeayeni/SecureCoding.git)
 - <b><c>Capstone</b>
-  - [Capstone Project Files](https://github.com/babatopeayeni/CapstoneProjects.git)
+  - [Capstone Project Files](https://github.com/babatopeayeni/Capstone_Project.git)
 
 
 
