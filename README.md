@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b><c> Embedded Systems Projects</b>
+  - [Thermostat](https://github.com/babatopeayeni/ThermostatMicrocontrollerProject.git)
+  - [LED](https://github.com/babatopeayeni/LED.git)
 - <b>JavaScript, CSS and HTML Projects</b>
   - [Web Game developed With JavaScript Algorithms - See No Evil Game ](https://github.com/babatopeayeni/threemonkeysgame)
   - [Ghost Face - Web Game](https://github.com/babatopeayeni/ghostFaceGame)
