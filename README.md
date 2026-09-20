@@ -3,6 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b><c> Embedded Systems Projects</b>
+  - [Environmental Monitoring System](https://github.com/babatopeayeni/TM4C123-Environmental-Monitoring-System)
   - [Thermostat](https://github.com/babatopeayeni/ThermostatMicrocontrollerProject.git)
   - [LED](https://github.com/babatopeayeni/LED.git)
 - <b>JavaScript, CSS and HTML Projects</b>
