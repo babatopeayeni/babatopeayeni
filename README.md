@@ -26,9 +26,6 @@
   - [ABCU advising assistance software. ](https://github.com/babatopeayeni/ABCU-advisingAssistanceSoftware.git)
 - <b><c> Computer Graphic and Visualization- OpenGL</b>
   - [3D Scene : OpenGL ](https://github.com/babatopeayeni/Graphic-Visualization-OpenGL.git)
-- <b><c>Emerging Sys Arch & Tech: Embedded Systems (Microcontroller Projects)</b>
-  - [Thermostat](https://github.com/babatopeayeni/ThermostatMicrocontrollerProject.git)
-  - [LED](https://github.com/babatopeayeni/LED.git)
 - <b><c>Mobile Architect and Programming</b>
   - [Android App Development](https://github.com/babatopeayeni/AccelerometerApp.git)
 - <b><c>Current and Immerging Trends: Artificial Intelligence</b>
